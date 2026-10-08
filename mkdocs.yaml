@@ -1,0 +1,13 @@
+site_name: "test-app-6"
+site_description: "Main documentation for the test-app-6"
+repo_url: https://github.com/michaelo-backstage-org/test-app-6
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Getting started: "docs/index.md"
+
